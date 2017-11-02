@@ -1,0 +1,21 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "learning angular",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitneva/angular4_ex1.git"
+  },
+  "author": "Tetiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sitneva/angular4_ex1/issues"
+  },
+  "homepage": "https://github.com/sitneva/angular4_ex1#readme"
+}
